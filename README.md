@@ -1,3 +1,6 @@
+My very first time learning and using react with Create React App.
+Just a simple task tracker to get me to understand the basics.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
