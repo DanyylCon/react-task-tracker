@@ -52,6 +52,7 @@ body {
 .btn-block {
   display: block;
   width: 100%;
+  margin-top: 15px;
 }
 
 .task {
@@ -94,17 +95,16 @@ body {
 .form-control-check {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .form-control-check label {
-  flex: 1;
+  margin-right: 10px;
 }
 
 .form-control-check input {
-  flex: 2;
   height: 20px;
-}
+} 
 
 footer {
   margin-top: 30px;
